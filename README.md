@@ -6,7 +6,7 @@ This approach takes the convolutional architechture widely used in image denoisi
 ![Alt text](images/diagram.png)
 *Model diagram*
 
-The paper includes a complete explanation on how the model works, how to generate the data sets needed to train and several results showing the model's effectivity.
+The paper includes a complete explanation on how the model works, how to generate the data sets needed to train and several results showing the model's effectivity. It is written in Spanish.
 
 ![Alt text](images/asd.png)
 *Some of the denoised signals compared to the originals and their noisy counterparts*
